@@ -58,7 +58,3 @@ This repository contains the code and resources for the "Mine-Roof-Stability-Cla
 
 *    Python notebooks and scripts for data preprocessing, feature extraction, model training, and evaluation.
 *   [Dataset](https://www.sciencedirect.com/science/article/pii/S235234092200066X) - Description of the dataset used or sample data files.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
