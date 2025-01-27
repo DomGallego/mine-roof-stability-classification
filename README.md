@@ -57,7 +57,7 @@ XGBoost and LightGBM classifiers demonstrated strong performance in classifying 
 This repository contains the code and resources for the "Mine-Roof-Stability-Classification" project, including:
 
 *    Python notebooks and scripts for data preprocessing, feature extraction, model training, and evaluation.
-*   [Dataset](https://www.sciencedirect.com/science/article/pii/S235234092200066X) - (If applicable) Description of the dataset used or sample data files.
+*   [Dataset](https://www.sciencedirect.com/science/article/pii/S235234092200066X) - Description of the dataset used or sample data files.
 
 ## License
 
