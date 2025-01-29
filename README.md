@@ -26,6 +26,8 @@ This study aims to:
 
 ## Methods
 
+![image](https://github.com/user-attachments/assets/fc506157-eb37-4740-bedf-3add89562258)
+
 **1. Dataset:** A library of labeled roof impacts from potash mine sites in Saskatchewan was used. The dataset consists of "tight" (stable) and "drummy" (unstable) roof impacts, recorded using acoustic sensors.
 
 **2. Data Preprocessing and Feature Extraction:**
@@ -41,6 +43,8 @@ This study aims to:
     - **Model Evaluation:** Model performance was evaluated based on accuracy and F1-score using 5-fold cross-validation. Inference speed was also measured for the best models.
 
 ## Results
+
+![image](https://github.com/user-attachments/assets/93b4e5a5-95bc-4eba-a05e-975d07825a54)
 
 - **Candidate Classifiers (LazyPredict):** LightGBM and XGBoost classifiers showed the highest accuracy in the initial AutoML evaluation using default parameters.
 - **Best Models (Hyperparameter Tuning):**
